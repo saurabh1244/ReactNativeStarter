@@ -16,7 +16,8 @@
     "react-dom": "19.1.0",
     "react-native": "0.79.2",
     "react-native-linear-gradient": "^2.8.3",
-    "tamagui": "^1.126.13"
+    "tamagui": "^1.126.13",
+    "zustand": "^5.0.5"
   },
   "devDependencies": {
     "@babel/core": "^7.25.2",
